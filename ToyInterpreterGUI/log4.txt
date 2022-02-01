@@ -1,0 +1,283 @@
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+string varf
+varf = test.in
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+string varf
+varf = test.in
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+varf = test.in
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> 
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+varf = test.in
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> 
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+openRFile(varf)
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+Output:
+File Table:
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+int varc
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 0
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+readFile(varf,varc)
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 0
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 15
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+print(varc)
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 15
+Output:
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 15
+Output:
+15
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+readFile(varf,varc)
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 15
+Output:
+15
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 50
+Output:
+15
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+print(varc)
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 50
+Output:
+15
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
+
+----------------START STATE PROGRAM 1 ----------------
+Execution Stack:
+closeRFile(varf)
+Symbol Table:
+varf -> test.in
+varc -> 50
+Output:
+15
+50
+File Table:
+test.in
+Heap:
+----------------END STATE PROGRAM 1----------------
+
